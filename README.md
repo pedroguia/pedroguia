@@ -1,7 +1,7 @@
 # Hello there 👋
 
 # About Me
-- 👀 My name is Pedro Guia and i live in Braga, Portugal
+- 👀 My name is Pedro Guia and i live in Viana do Castelo, Portugal
 - 💻 Currently working as a Frontend Developer at Deus-AI
 - 🎮 I have a degree in Digital Games Development 
 
